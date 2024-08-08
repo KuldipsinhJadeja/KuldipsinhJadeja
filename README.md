@@ -5,8 +5,8 @@
 ## 🎨 My Craft:
 - **Front-End Sorcery:** HTML, CSS, JavaScript, React, Angular
 - **Back-End Wizardry:** Node.js, Express
-- **Data Conjuring:** SQL, MongoDB, MySQL
-- **Version Control Mastery:** Git, GitHub
+- **Data Conjuring:** MongoDB, MySQL
+- **Version Control Mastery:** Git, GitHub, Bitbucket
 
 ## 📚 Ever-Learning Mage:
 In the ever-evolving realm of web development, I continuously sharpen my spells. Currently, I'm diving deep into Angular, aiming to master new dimensions of the digital universe.
